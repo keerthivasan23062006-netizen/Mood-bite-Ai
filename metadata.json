@@ -1,7 +1,6 @@
 {
-  "name": "MoodBite AI",
-  "description": "AI-Powered Mood-Based Food Delivery Platform that matches your emotions and cravings with the perfect meals from top restaurants.",
-  "requestFramePermissions": [],
+  "name": "MoodBite",
+  "description": "AI-powered mental wellness and nutrition platform providing personalized food recommendations, mood tracking, AI coaching, and wellness insights.",
+  "requestFramePermissions": ["microphone"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
-
